@@ -5,9 +5,7 @@
     "dev": "vite dev",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "lint": "eslint . --fix --ignore-path .gitignore",
-    "deploy": "sh deploy.sh"
-  },
+    "lint": "eslint . --fix --ignore-path .gitignore"  },
   "dependencies": {
     "@mdi/font": "7.0.96",
     "pinia": "^2.0.23",
