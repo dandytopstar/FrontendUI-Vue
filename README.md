@@ -1,5 +1,8 @@
 # default
 
+- Set up Core scaffold with Tailwind CSS
+- Dark Mode changes visible
+
 ## Project setup
 
 ```
